@@ -2,9 +2,9 @@
 <h3 align="center">A Web Developer from Brazil</h3>
 
 ## 
-I'm a 20yo brazilian webdesigner and a Full Stack Development student at **Trybe**;
+I'm a 20yo brazilian webdesigner and a Full Stack Development student at **Trybe**:
 
-- 🏡  São Paulo - Brazil
+- 🏡  São Paulo - Brazil;
 
 - 📚  I'm studying at [Trybe](https://www.betrybe.com/), learning **Front-End Devolopment**;
 
@@ -22,9 +22,10 @@ I'm a 20yo brazilian webdesigner and a Full Stack Development student at **Trybe
   <img align="center" alt="gpolk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gpolk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
+<br>
 <div class="row">
 <a href="https://beacons.ai/gpolkorny">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gpolkorny&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
 <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harumimaeda&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
+  ![Snake animation](https://github.com/gpolkorny/gpolkorny/blob/output/github-contribution-grid-snake.svg)
