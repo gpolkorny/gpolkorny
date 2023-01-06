@@ -28,4 +28,3 @@ I'm a 20yo brazilian webdesigner and a Full Stack Development student at **Trybe
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gpolkorny&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
 <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harumimaeda&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
-  ![Snake animation](https://github.com/gpolkorny/gpolkorny/blob/output/github-contribution-grid-snake.svg)
