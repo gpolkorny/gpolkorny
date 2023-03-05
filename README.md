@@ -6,7 +6,7 @@ I'm a 20yo brazilian webdesigner and a Full Stack Development student at **Trybe
 
 - 🏡  São Paulo - Brazil;
 
-- 📚  I'm studying at [Trybe](https://www.betrybe.com/), learning **Front-End Devolopment**;
+- 📚  I'm studying at [Trybe](https://www.betrybe.com/), learning **Back-End Devolopment**;
 
 - 🌱 I’m currently learning: **Redux**, **RTL** and **Three.js**;
 
