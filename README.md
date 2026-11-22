@@ -1,30 +1,112 @@
-<h1 align="center">Hello there 👋, I'm Guilherme Polkorny</h1>
-<h3 align="center">A Web Developer from Brazil</h3>
-
-## 
-I'm a 20yo brazilian webdesigner and a Full Stack Development student at **Trybe**:
-
-- 🏡  São Paulo - Brazil;
-
-- 📚  I'm studying at [Trybe](https://www.betrybe.com/), learning **Back-End Devolopment**;
-
-- 🌱 I’m currently learning: **Redux**, **RTL** and **Three.js**;
-
-- 📫  How to reach me:
-  
-  <a href="https://www.instagram.com/g.polkorny/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gpolkorny@gmail.com?subject=Contato&body=ol%C3%A1%20Guilherme%2C%20tudo%20bem%3F%0D%0A%0D%0Aatt%20(seu%20nome)."><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gpolkorny/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.behance.net/gpolkorny/" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
-- ⚡ I work with: <div style="display: inline_block">
-  <img align="center" alt="gpolk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gpolk-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="gpolk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gpolk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="center">
+  <img src="./assets/github-cover.svg" alt="Guilherme Polkorny — building useful technology for real operations" width="100%" />
+  <p>
+    <a href="https://www.linkedin.com/in/gpolkorny/"><strong>LinkedIn</strong></a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="mailto:gpolkorny@gmail.com"><strong>Email</strong></a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://github.com/gpolkorny?tab=repositories"><strong>Repositories</strong></a>
+  </p>  <sub>Business-first thinking. Hands-on execution. AI where it actually helps.</sub>
 </div>
-<br>
-<div class="row">
-<a href="https://beacons.ai/gpolkorny">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=gpolkorny&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harumimaeda&layout=compact&langs_count=7&theme=aura_dark"/>
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>01 / About</h3>
+      <p>
+        I'm a product builder with a background in <strong>growth, sales leadership, and revenue operations</strong>.
+        After years working close to commercial teams, I began building the tools I wished those teams had.
+      </p>
+      <p>
+        Today, I work across <strong>AI deployment, software, automation, and business processes</strong> —
+        from understanding an operational bottleneck to shipping a solution that fits the real workflow.
+      </p>
+      <p>I care about what happens <em>after</em> a product goes live.</p>
+    </td>
+    <td width="35%" valign="top">
+      <h3>Currently</h3>
+      <p><strong>Building</strong><br /><sub>Nico — automotive retail technology</sub></p>
+      <p><strong>Working on</strong><br /><sub>Applied AI · product systems · integrations</sub></p>
+      <p><strong>Based in</strong><br /><sub>Brasília, Brazil 🇧🇷</sub></p>
+    </td>
+  </tr>
+</table>
+<h3>02 / Selected work</h3><table>
+  <thead>
+    <tr>
+      <th align="left" width="23%">PROJECT</th>
+      <th align="left" width="57%">WHAT I WORKED ON</th>
+      <th align="left" width="20%">FOCUS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top"><strong>01 — Nico</strong><br /><sub>Founder & Product Builder</sub></td>
+      <td valign="top">
+        Building an operating platform for automotive retailers, connecting inventory,
+        digital storefronts, commercial workflows, and customer acquisition.
+        <br /><br />
+        <sub>Multi-tenant architecture · customer portals · inventory · CRM workflows · integrations</sub>
+        <br /><br />
+        <sub><strong>Status:</strong> Active development. V2 in production; additional capabilities are still being built.</sub>
+      </td>
+      <td valign="top"><code>PRODUCT</code><br /><code>ENGINEERING</code></td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>02 — Kapô</strong><br /><sub>Commercial Operations</sub></td>
+      <td valign="top">
+        Helped implement AI-assisted pre-sales processes in an automotive operation:
+        inbound conversations, lead qualification, appointment scheduling, and handoffs to sales teams.
+        <br /><br />
+        <sub>The goal wasn't more conversations. It was a more workable commercial process.</sub>
+      </td>
+      <td valign="top"><code>AI DEPLOYMENT</code><br /><code>REVOPS</code></td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>03 — ORBI</strong><br /><sub>Product & Go-to-Market</sub></td>
+      <td valign="top">
+        Worked at the intersection of product thinking and business execution,
+        including user journeys, commercial strategy, and go-to-market planning.
+      </td>
+      <td valign="top"><code>PRODUCT</code><br /><code>STRATEGY</code></td>
+    </tr>
+  </tbody>
+</table>
+<h3>03 / Tools & disciplines</h3><table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Build</strong><br /><br />
+      <code>Next.js</code> <code>React</code><br />
+      <code>TypeScript</code> <code>JavaScript</code><br />
+      <code>Supabase</code> <code>PostgreSQL</code><br />
+      <code>Vercel</code>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Connect</strong><br /><br />
+      <code>APIs</code> <code>Webhooks</code><br />
+      <code>Make</code> <code>CRM integrations</code><br />
+      <code>AI workflows</code><br />
+      <code>Process automation</code>
+    </td>
+    <td width="34%" valign="top">
+      <strong>Operate</strong><br /><br />
+      <code>Product discovery</code><br />
+      <code>Revenue operations</code><br />
+      <code>Growth</code> <code>Go-to-market</code><br />
+      <code>Sales processes</code>
+    </td>
+  </tr>
+</table>
+<h3>04 / How I work</h3><table>
+  <tr>
+    <td align="center" width="25%"><strong>Understand</strong><br /><sub>Start with the operation</sub></td>
+    <td align="center" width="25%"><strong>Design</strong><br /><sub>Fit the real workflow</sub></td>
+    <td align="center" width="25%"><strong>Deploy</strong><br /><sub>Ship & integrate</sub></td>
+    <td align="center" width="25%"><strong>Improve</strong><br /><sub>Measure & iterate</sub></td>
+  </tr>
+</table>
+<div align="center">
+  <p><strong>Good technology is the part that makes the operation better.</strong></p>
+  <sub>Building, shipping, learning — and sharing the process.</sub>
+  <br /><br />
+  <a href="https://www.linkedin.com/in/gpolkorny/">Let's connect on LinkedIn</a>
 </div>
