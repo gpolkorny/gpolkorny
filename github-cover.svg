@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+  <title id="title">Guilherme Polkorny — AI Deployment, Product Building and Growth Operations</title>
+  <desc id="desc">Dark editorial-style GitHub profile banner with typography and a clean technical grid.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#68736a" stroke-width="0.8" opacity="0.16"/>
+    </pattern>
+    <clipPath id="clip"><rect x="0" y="0" width="1280" height="480" rx="12" /></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="480" fill="#111614" />
+    <rect x="716" y="0" width="564" height="480" fill="url(#grid)" />
+    <rect x="716" y="0" width="1" height="480" fill="#3b4540" />
+    <rect x="0" y="0" width="1280" height="6" fill="#c3d3a8" />
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="72" y="65" fill="#c3d3a8" font-size="15" font-weight="700" letter-spacing="3">GP / PERSONAL INDEX</text>
+      <text x="1202" y="65" fill="#929c92" font-size="14" font-weight="700" letter-spacing="2" text-anchor="end">BRASILIA · BR</text>
+      <text x="68" y="202" fill="#f3f0e7" font-size="87" font-weight="700" letter-spacing="-4">Guilherme</text>
+      <text x="68" y="295" fill="#f3f0e7" font-size="87" font-weight="700" letter-spacing="-4">Polkorny<tspan fill="#c3d3a8">.</tspan></text>
+      <text x="73" y="359" fill="#9eaaa1" font-size="23" letter-spacing="-0.2">Building useful technology for real operations.</text>
+      <line x1="74" y1="400" x2="660" y2="400" stroke="#49544d" stroke-width="1" />
+      <text x="74" y="436" fill="#c3d3a8" font-size="13" font-weight="700" letter-spacing="1.8">AI  /  PRODUCT  /  AUTOMATION  /  GROWTH</text>
+      <text x="778" y="164" fill="#718077" font-size="13" font-weight="700" letter-spacing="3">AREAS OF PRACTICE</text>
+      <g font-size="24" fill="#f0f1e9" font-weight="600">
+        <text x="778" y="231">AI deployment</text>
+        <text x="778" y="305">Product building</text>
+        <text x="778" y="379">Revenue operations</text>
+      </g>
+      <g font-size="13" fill="#c3d3a8" font-weight="700" letter-spacing="1">
+        <text x="779" y="202">01</text>
+        <text x="779" y="276">02</text>
+        <text x="779" y="350">03</text>
+      </g>
+      <line x1="779" y1="241" x2="1184" y2="241" stroke="#465149" />
+      <line x1="779" y1="315" x2="1184" y2="315" stroke="#465149" />
+      <line x1="779" y1="389" x2="1184" y2="389" stroke="#465149" />
+    </g>
+  </g>
+</svg>
