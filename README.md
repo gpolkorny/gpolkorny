@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/github-cover.svg" alt="Guilherme Polkorny — building useful technology for real operations" width="100%" />
+  <img src="./github-cover.svg" alt="Guilherme Polkorny — building useful technology for real operations" width="100%" />
   <p>
     <a href="https://www.linkedin.com/in/gpolkorny/"><strong>LinkedIn</strong></a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
